@@ -9,6 +9,10 @@ h2 {
 body {
     background-color: bisque;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 64px;
+    border: 5px solid saddlebrown;
+    margin: auto;
+    box-sizing: border-box;
 }
 
 h3 {
